@@ -1,0 +1,2 @@
+# Matlab_Diameter_measurement
+Measuring objects within an image or frame can be an important capability for many applications where computer vision is required instead of making physical measurements. Through this application note you will be able to write a MATLAB script file to import an image, segment the image in order to isolate the desired object from its background and then use the MATLAB functions to determine the objects diameter.
